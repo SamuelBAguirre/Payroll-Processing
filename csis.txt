@@ -1,0 +1,80 @@
+------------------[PART B - Current PayRoll]------------------
+[First Name]    [Last Name]     [Gender]        [Tenure]        [Rate]          [Salary]       
+
+Howard          Starr           M               8               H               $30.00          
+Joan            Jacobus         F               9               W               $925.00         
+David           Renn            M               3               H               $4.75           
+Albert          Cahana          M               3               H               $18.75          
+Douglas         Sheer           M               5               W               $250.00         
+Shari           Buchman         F               9               W               $325.00         
+Freda           Heller          F               1               H               $7.50           
+Ricky           Mofsen          M               6               H               $12.50          
+Jean            Brennan         F               6               H               $5.40           
+Deborah         Starr           F               3               W               $1000.00        
+Jamie           Michaels        F               8               W               $150.00         
+
+------------------[PART C ]------------------
+[Number of Employees]: 11
+
+
+------------------[PART D - Females In PayRoll]------------------
+[Female Employee]: Joan       Jacobus   
+[Female Employee]: Shari      Buchman   
+[Female Employee]: Freda      Heller    
+[Female Employee]: Jean       Brennan   
+[Female Employee]: Deborah    Starr     
+[Female Employee]: Jamie      Michaels  
+
+-[PART E - Employees Who Make More Than $35,000/year And Have Been With The Company For At Least Five Years]-
+[Employee]: Joan       Jacobus    $925.00    
+
+------------------[PART F - Increase In Pay]------------------
+[Employee With A $0.75 Increase In Hourly Pay]: Renn       David      $5.50      
+[Employee With A $50.0 Increase In Weekly Pay]: Sheer      Douglas    $300.00    
+[Employee With A $50.0 Increase In Weekly Pay]: Buchman    Shari      $375.00    
+[Employee With A $0.75 Increase In Hourly Pay]: Heller     Freda      $8.25      
+[Employee With A $0.75 Increase In Hourly Pay]: Brennan    Jean       $6.15      
+[Employee With A $50.0 Increase In Weekly Pay]: Michaels   Jamie      $200.00    
+
+------------------[PART G - Sorted PayRoll]------------------
+[Employee By First/Last Name]: Jean       Brennan    $6.15      
+[Employee By First/Last Name]: Shari      Buchman    $375.00    
+[Employee By First/Last Name]: Albert     Cahana     $18.75     
+[Employee By First/Last Name]: Freda      Heller     $8.25      
+[Employee By First/Last Name]: Joan       Jacobus    $925.00    
+[Employee By First/Last Name]: Jamie      Michaels   $200.00    
+[Employee By First/Last Name]: Ricky      Mofsen     $12.50     
+[Employee By First/Last Name]: David      Renn       $5.50      
+[Employee By First/Last Name]: Douglas    Sheer      $300.00    
+[Employee By First/Last Name]: Deborah    Starr      $1000.00   
+[Employee By First/Last Name]: Howard     Starr      $30.00     
+
+------------------[PART H - Updated PayRoll With Hired Employees]------------------
+[Employee By First/Last Name]: Barry      Allen      $6.75      
+[Employee By First/Last Name]: Jean       Brennan    $6.15      
+[Employee By First/Last Name]: Shari      Buchman    $375.00    
+[Employee By First/Last Name]: Albert     Cahana     $18.75     
+[Employee By First/Last Name]: Freda      Heller     $8.25      
+[Employee By First/Last Name]: Joan       Jacobus    $925.00    
+[Employee By First/Last Name]: Jamie      Michaels   $200.00    
+[Employee By First/Last Name]: Ricky      Mofsen     $12.50     
+[Employee By First/Last Name]: Nina       Pinella    $425.00    
+[Employee By First/Last Name]: David      Renn       $5.50      
+[Employee By First/Last Name]: Douglas    Sheer      $300.00    
+[Employee By First/Last Name]: Deborah    Starr      $1000.00   
+[Employee By First/Last Name]: Howard     Starr      $30.00     
+[Employee By First/Last Name]: Lane       Wagger     $725.00    
+
+------------------[PART J - Updated PayRoll With Fired Employees]------------------
+[Employee By First/Last Name]: Barry      Allen      $6.75      
+[Employee By First/Last Name]: Shari      Buchman    $375.00    
+[Employee By First/Last Name]: Albert     Cahana     $18.75     
+[Employee By First/Last Name]: Freda      Heller     $8.25      
+[Employee By First/Last Name]: Joan       Jacobus    $925.00    
+[Employee By First/Last Name]: Jamie      Michaels   $200.00    
+[Employee By First/Last Name]: Nina       Pinella    $425.00    
+[Employee By First/Last Name]: David      Renn       $5.50      
+[Employee By First/Last Name]: Douglas    Sheer      $300.00    
+[Employee By First/Last Name]: Deborah    Starr      $1000.00   
+[Employee By First/Last Name]: Howard     Starr      $30.00     
+[Employee By First/Last Name]: Lane       Wagger     $725.00    
